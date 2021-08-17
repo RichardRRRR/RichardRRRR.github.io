@@ -3,7 +3,10 @@
   <entry>
     <title>欢迎来到康康の小屋！</title>
     <url>/undefined/welcome/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="/undefined/welcome/%E5%BA%B7%E5%BA%B7.gif" style="zoom: 50%;">
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>泥嚎！</p>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><code class="hljs markdown">&lt;!-- more --&gt;<br></code></pre></td></tr></table></figure>
+
+<img src="/undefined/welcome/%E5%BA%B7%E5%BA%B7.gif" style="zoom: 50%;">
 
 
 
@@ -35,7 +38,10 @@
   <entry>
     <title>5G“漫游”：嘉心糖们，是时代的缩影</title>
     <url>/undefined/5Gjiaxintang/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这年头，从输入法到背单词，从英雄联盟再到美妆教学，没在视频里见过“嘉心糖”，都不好意思说自己上过B站。不知不觉中，“嘉心糖”已经影响到了圈外的人，嘉然的口头禅“笑死”竟成为了新一代网民的标准用语。这一铺天盖地的宣传也引起了无数网友的不满，本篇文章会简谈“嘉心糖”的由来，以及他们为什么会引起他人的反感。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>毕竟，嘉心糖们，谁不想永远做嘉然小姐的狗啊。</p>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><code class="hljs markdown">&lt;!-- more --&gt;<br></code></pre></td></tr></table></figure>
+
+<p>这年头，从输入法到背单词，从英雄联盟再到美妆教学，没在视频里见过“嘉心糖”，都不好意思说自己上过B站。不知不觉中，“嘉心糖”已经影响到了圈外的人，嘉然的口头禅“笑死”竟成为了新一代网民的标准用语。这一铺天盖地的宣传也引起了无数网友的不满，本篇文章会简谈“嘉心糖”的由来，以及他们为什么会引起他人的反感。</p>
 <img src="/undefined/5Gjiaxintang/5G%E6%BC%AB%E6%B8%B8%E2%80%9C.gif" style="zoom: 25%;">
 
 <p>这里是5G”漫游“栏目，更新对于网络ACGN圈和游戏圈的评论。</p>
@@ -99,7 +105,10 @@
   <entry>
     <title>Hello World</title>
     <url>/undefined/hello-world/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>测试测试</p>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><code class="hljs markdown">&lt;!-- more --&gt;<br></code></pre></td></tr></table></figure>
+
+<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
