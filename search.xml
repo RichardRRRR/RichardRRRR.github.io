@@ -1,22 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/undefined/hello-world/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure>
+    <title>欢迎来到康康の小屋！</title>
+    <url>/undefined/welcome/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="/undefined/welcome/%E5%BA%B7%E5%BA%B7.gif" style="zoom: 50%;">
 
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure>
+<p><strong>泥嚎！欢迎来到主人的小屋！</strong></p>
+<p>嗯……主人好像不在呢！没事没事，来了就别走啦！让雪姬我给你来介绍我家主人<del>脏乱差</del>的小屋吧！咦？你看不见我嘛？嘿咻…嗯！这下就好啦！</p>
+<img src="/undefined/welcome/example-28503.jpg" style="zoom: 25%;">
 
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<p>能看到吗？能？嘿嘿……雪姬我……什么？脸上有脏东西？呜哇щ(゜ロ゜щ)，没脸见人了啊！等等，我去清理一下！*[脚步声]*</p>
+<p><em>[过了一会儿]</em></p>
+<p>嘿嘿！现在好了！那么，让我来介绍一下吧主人的网站吧！(/◔ ◡ ◔)/</p>
+<h1 id="基础界面"><a href="#基础界面" class="headerlink" title="基础界面"></a>基础界面</h1><p>首先是基础界面！</p>
+<h2 id="首页"><a href="#首页" class="headerlink" title="首页"></a><a href="https://richardkang.tk/">首页</a></h2><p>当你进入网站的时候，映入眼帘的就是首页啦！这里会显示主人写的博客，默认的是这篇置顶。</p>
+<p>你可以利用滚轮向下浏览。嗯，内容很多呢！</p>
+<p>过了这篇，就是主人的博客啦！是按时间排序的哦！</p>
+<p><strong>诶诶，别走啊，伦家话还没说完的说！(<em>｀へ´</em>)(<em>｀へ´</em>)(<em>｀へ´</em>)</strong></p>
+<p>当然啦，当你去了网站的其他模块，点击“首页”按钮或者点一下主人网站的名称就会咻地回来啦！</p>
+<h2 id="关于"><a href="#关于" class="headerlink" title="关于"></a><a href="https://richardkang.tk/about/">关于</a></h2><p>阿哲……主人好像还没有设置呢，等他回来再说吧！</p>
+<h2 id="标签与分类"><a href="#标签与分类" class="headerlink" title="标签与分类"></a><a href="https://richardkang.tk/tags/">标签</a>与<a href="https://richardkang.tk/categories/">分类</a></h2><p>这里是主人博客的分类！雪姬我也想偷偷的改几个分类呢ヽ(╯▽╰)ﾉ但是主人不让！</p>
+<h2 id="归档"><a href="#归档" class="headerlink" title="归档"></a><a href="https://richardkang.tk/archives/">归档</a></h2><p>这里能看到主人以前的<del>黑历史</del>博客！点击题目就可以解锁了！</p>
 ]]></content>
+      <categories>
+        <category>雪姬的小时光</category>
+      </categories>
+      <tags>
+        <tag>欢迎</tag>
+        <tag>设置</tag>
+      </tags>
   </entry>
   <entry>
     <title>5G“漫游”：嘉心糖们，是时代的缩影</title>
@@ -83,35 +97,21 @@
       </categories>
   </entry>
   <entry>
-    <title>欢迎来到康康の小屋！</title>
-    <url>/undefined/welcome/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="/undefined/welcome/%E5%BA%B7%E5%BA%B7.gif" style="zoom: 50%;">
+    <title>Hello World</title>
+    <url>/undefined/hello-world/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure>
 
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure>
 
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure>
 
-<p><strong>泥嚎！欢迎来到主人的小屋！</strong></p>
-<p>嗯……主人好像不在呢！没事没事，来了就别走啦！让雪姬我给你来介绍我家主人<del>脏乱差</del>的小屋吧！咦？你看不见我嘛？嘿咻…嗯！这下就好啦！</p>
-<img src="/undefined/welcome/example-28503.jpg" style="zoom: 25%;">
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure>
 
-<p>能看到吗？能？嘿嘿……雪姬我……什么？脸上有脏东西？呜哇щ(゜ロ゜щ)，没脸见人了啊！等等，我去清理一下！*[脚步声]*</p>
-<p><em>[过了一会儿]</em></p>
-<p>嘿嘿！现在好了！那么，让我来介绍一下吧主人的网站吧！(/◔ ◡ ◔)/</p>
-<h1 id="基础界面"><a href="#基础界面" class="headerlink" title="基础界面"></a>基础界面</h1><p>首先是基础界面！</p>
-<h2 id="首页"><a href="#首页" class="headerlink" title="首页"></a><a href="https://richardkang.tk/">首页</a></h2><p>当你进入网站的时候，映入眼帘的就是首页啦！这里会显示主人写的博客，默认的是这篇置顶。</p>
-<p>你可以利用滚轮向下浏览。嗯，内容很多呢！</p>
-<p>过了这篇，就是主人的博客啦！是按时间排序的哦！</p>
-<p><strong>诶诶，别走啊，伦家话还没说完的说！(<em>｀へ´</em>)(<em>｀へ´</em>)(<em>｀へ´</em>)</strong></p>
-<p>当然啦，当你去了网站的其他模块，点击“首页”按钮或者点一下主人网站的名称就会咻地回来啦！</p>
-<h2 id="关于"><a href="#关于" class="headerlink" title="关于"></a><a href="https://richardkang.tk/about/">关于</a></h2><p>阿哲……主人好像还没有设置呢，等他回来再说吧！</p>
-<h2 id="标签与分类"><a href="#标签与分类" class="headerlink" title="标签与分类"></a><a href="https://richardkang.tk/tags/">标签</a>与<a href="https://richardkang.tk/categories/">分类</a></h2><p>这里是主人博客的分类！雪姬我也想偷偷的改几个分类呢ヽ(╯▽╰)ﾉ但是主人不让！</p>
-<h2 id="归档"><a href="#归档" class="headerlink" title="归档"></a><a href="https://richardkang.tk/archives/">归档</a></h2><p>这里能看到主人以前的<del>黑历史</del>博客！点击题目就可以解锁了！</p>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-      <categories>
-        <category>雪姬的小时光</category>
-      </categories>
-      <tags>
-        <tag>欢迎</tag>
-        <tag>设置</tag>
-      </tags>
   </entry>
 </search>
